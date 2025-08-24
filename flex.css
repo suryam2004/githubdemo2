@@ -1,0 +1,21 @@
+.one{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    color:rosybrown;
+
+}
+.two{
+      width: 50%;
+    height: 30%;
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    background-color: crimson;
+    color: black;  
+    padding:20px;
+    border-radius: 20px;
+}
