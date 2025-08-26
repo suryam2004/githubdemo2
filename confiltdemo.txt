@@ -1,2 +1,1 @@
-confilt occurs when two or more changes to same file  it does't automatically mergerd
-git confuse which changes to take so it can be resolve mannully.
+none
